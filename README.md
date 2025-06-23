@@ -35,8 +35,14 @@ The development of this program would require collaboration between specialized 
 Although I envision agricultural lands as the most important and practical implementation of an AI music generator, there are many other potential uses as well.
 The precise use and specifications of this AI system would depend on its implementation and personal choices by farmers and other persons using such technology, but would invlove at least the following:
 * High-quality speakers
-* A computer or robot of some sort that would select the songs/frequencies/melodies to be played and transmit them to the speakers. I caution against the use of Wi-Fi or Bluetooth since many studies have found harmful effects on plants from radiofrequency radiation.
+* A computer of some sort that would select the songs/frequencies/melodies to be played and transmit them to the speakers. I caution against the use of Wi-Fi or Bluetooth since many studies have found harmful effects on plants from radiofrequency radiation.
 * Human supervisors that can turn on/off the system and ensure that it is working properly
+
+If a farmer wants to help the AI to assess and improve its performance, the following technologies may play an important role in the system:
+* Cameras and sensors
+* Soil testing kits (may be administered by a farmer or a robotic assistant)
+
+The robotic assistants and/or farmers would report the data they collected to the central computer for the farm and the computer would crunch the numbers to assess the overall effects of the music production.
 
 Farmers may choose to opt out of sharing the data collected by the AI system to improve its performance and understanding.
 
@@ -57,18 +63,16 @@ Linear regression, logistic regression, the nearest neighbor method, neural netw
 
 ## Challenges
 
-This AI idea is not a magic bullet fix for all agricultural problems. Its success depends on healthy conditions conducive to environmental and plant health and may vary based on numerous factors. Deploying an AI system such as this on a large farm would require a very large number of speakers due to the short distance that sound waves at an ideal volume range for this application would travel. Different frequencies and melodies may have significantly different effects on different plant species, further complicating the system. While quantifying these effects on every species in a particular ecosystem may be near impossible, 
+This AI idea is not a magic bullet fix for all agricultural problems. Its success depends on healthy conditions conducive to environmental and plant health and may vary based on numerous factors. Deploying an AI system such as this on a large farm would require a very large number of speakers due to the short distance that sound waves at an ideal volume range for this application would travel. Different frequencies and melodies may have significantly different effects on different plant species, further complicating the system. While quantifying these effects on every species in a particular ecosystem may be near impossible, I believe a well-trained AI model would be able to gather sufficient data to make a quality assessment of the health of the farm.
 
-When used as intended, I do not forsee any significant harms or ethical issues. However, successful and ethical deployment requires attention to an ideal volume and the design of the melody generator must be designed carefully to avoid creating dissonent frequencies.
+When used as intended, I do not forsee any significant harms or ethical issues. However, successful and ethical deployment requires attention to an ideal volume and the design of the melody generator in order to have a beneficial effect and avoid playing dissonent frequencies.
 
 Any model with a thereputic purpose, such as this one, should be thorougly tested in high-quailty trials to ensure its safety and efficacy.
 
 
 ## What next?
 
-My focus is on plants; however, it is conceivable that similar models could be developed to support mycelial networks, algae, animals, and humans.
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on? 
+My focus is on plants; however, it is conceivable that similar models could be developed to support mycelial networks, algae, animals, and humans. It is my hope that thoughtful AI developers, musicians, conservationists, farmers, biologists, and experts from other related fields will work together to achieve the successful implementaion and evolution of AI systems such as this one.
 
 ## Acknowledgments
 
