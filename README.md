@@ -44,18 +44,16 @@ If a farmer wants to help the AI to assess and improve its performance, the foll
 * A centralized computer that the supervised robotic assistants would report their data to
 * Soil testing kits (may be administered by a farmer or a robotic assistant)
 
-The robotic assistants and/or farmers would report the data they collected to the central computer for the farm and the computer would crunch the numbers to assess the overall effects of the music production.
+The robotic assistants and/or farmers would report the data they collected to the central computer for the farm and the computer would crunch the numbers to assess the overall effects of the music production. Anonymized, aggregated data from many farms may be of great value. Ideally, this data would be combined with locally collected data for each deployment (i.e. each farm or subsection of the farm) for maximum performance and benefit.
 
-Anonymized, aggregated data from many farms may be of great value. Ideally, this data would be combined with locally collected data for each deployment (i.e. each farm or subsection of the farm) for maximum performance and benefit.
-
-Farmers may choose to opt out of sharing anon data collected by the AI system to improve the performance and understanding 
+Farmers may choose to share anonymized data collected by the AI system in order improve the performance and understanding of other deployments. They may also choose to opt out of such data sharing.
 
 
 ## Data sources and AI methods
 
- Data would likely be collected from several sources. The model could be trained on datasets of relaxing, classical music, solfeggio frequency recordings, and other music that has been shown to have relaxing effects in humans, animals, and as research continues, plants as well. One option is to collect data from songs already written and recorded. Most classical music is in the public domain; most recordings of classical music are not. So data would have to be carefully collected to avoid copyright infringement. Another possibility is to generate original music using solfeggio frequencies (for example) and AI methods.
+Data would likely be collected from several sources. The model could be trained on datasets of classical music, solfeggio frequencies, and other music that has been shown to have relaxing effects in humans and animals and that are by inferrence perhaps the most likely to have positive effects on plants (a hypothesis that will likely be supported or refuted by new research). One option is to collect data from songs already written and recorded. Most classical music is in the public domain; most recordings of classical music are not. So data would have to be carefully collected to avoid copyright infringement. Another possibility (or adjunct to public domain works) is to generate original music using solfeggio frequencies (for example) and AI methods.
 
-Linear regression, logistic regression, the nearest neighbor method, neural networks, and other machine learning techniques would likely be utilized, with a particular focus on neural networks and logistic regression.
+Linear regression, logistic regression, the nearest neighbor method, neural networks, and other machine learning techniques would likely be utilized. Neural networks and Generative Pretrained Transformers may be particularly useful.
 
 ## Challenges
 
@@ -64,7 +62,6 @@ This AI idea is not a magic bullet fix for all agricultural problems. Its succes
 When used as intended, I do not forsee any significant harms or ethical issues. However, successful and ethical deployment requires attention to an ideal volume and the design of the melody generator in order to have a beneficial effect and avoid playing dissonent frequencies.
 
 Any model with a utilitarian and/or thereputic purpose, such as this one, should be thorougly tested in high-quailty studies and experiments to ensure its safety and efficacy.
-
 
 ## What next?
 
