@@ -12,48 +12,42 @@ We are currently facing many agricultural crises in the U.S. and worldwide, incl
 * Depleted soils
 * Droughts and floods
 * Loss of biodiversity
+* Nutrient deficiencies
 * Overdependence on pesticides and genetically modified organisms (GMOs)
 * Many other interrelated problems
 
 While the nature of the global agriculture crisis and its manifestations does vary widely based on reigon and climate, this AI system is likely to provide benefits regardless of the local environment. Additionally, the AI system would be highly adaptable and would learn independently and/or with human supervision (preferred) based on the specific conditions present in an individual deployment.
 
-As an adjunct to healthy agriculture practices (such as the avoidance of pesticides and GMOs, crop rotations, and silvopasture), I believe that this AI system has the potential to:
-* Accelerate recovery of depleted soils and damaged ecosystems
+As an adjunct to healthy agricultural practices (such as the avoidance of pesticides and GMOs, crop rotationsd, silvopasture, holistic grazing, and more), I believe that this AI system has the potential to:
+* Accelerate recovery of depleted soils and damaged ecosystem
 * Reduce dependence on harmful pesticides
 * Nurture biodiversity.
+* Increase crops' nutritional value
 
 Healthier, happier plants equals better yields and greater sustainability.
 
 ## How is it used?
 
-This idea is in its infancy and not even a prototype yet. Therefore, it is difficult to precisely say how it will be used. But I will summarize the essential ideas of this AI system below.
+This idea is in its infancy and not even a prototype yet. Therefore, it is difficult to say precisely how it will be used. But I will summarize the essential ideas of this AI system below.
 
-This AI system incorporates machine learning in order to identify and transmit the most benecifical frequencies and melodies to benefit plant well-being on agricultural and other lands. The AI system is equipped with cameras, sensors, and even a soil testing kit and trained to recognize patterns of health and disease in a given landscape, such as a farm.
+This AI system would incorporate machine learning in order to identify and transmit the most benecifical frequencies and melodies to benefit plant well-being on agricultural and other lands. The AI system would be equipped with cameras, sensors, and a soil testing kit and trained to recognize patterns of health and disease in a given landscape, such as a farm.
 
-The development of this program would require collaboration between specialized experts in regenerative agriculture and AI. The goal would be to develop an accessible and easy-to-use AI system that could be easily trained and used by farmers, with strong safeguards in place to prevent abuse. Some training would be required of farmers to 
+The development of this AI system would require collaboration between specialized experts in regenerative agriculture and AI. The goal would be to develop an accessible and easy-to-use AI system that could be easily trained and used by farmers, with strong safeguards in place to prevent abuse. Farmers wishing to ultilize this AI system would need to be instructed in its proper use, whether formally or not.
 
-Although I envision agricultural lands as the most important and practical implementation of an AI music generator, there are many other potential uses as well.
 The precise use and specifications of this AI system would depend on its implementation and personal choices by farmers and other persons using such technology, but would invlove at least the following:
 * High-quality speakers
-* A computer of some sort that would select the songs/frequencies/melodies to be played and transmit them to the speakers. I caution against the use of Wi-Fi or Bluetooth since many studies have found harmful effects on plants from radiofrequency radiation.
+* A computer of some sort that would select the songs/frequencies/melodies to be played and transmit them to the speakers. I caution against the use of Wi-Fi or Bluetooth since many studies have found harmful effects on plants from radiofrequency radiation. (a meta-analysis of 45 peer-reviewed scientific publications examining the impact of RF-EMFs can be found at https://www.tandfonline.com/doi/abs/10.1080/15368378.2016.1220389).
 * Human supervisors that can turn on/off the system and ensure that it is working properly
 
 If a farmer wants to help the AI to assess and improve its performance, the following technologies may play an important role in the system:
-* Cameras and sensors
+* Robotic assistants equipped with cameras and sensors
+* A centralized computer that the supervised robotic assistants would report their data to
 * Soil testing kits (may be administered by a farmer or a robotic assistant)
 
 The robotic assistants and/or farmers would report the data they collected to the central computer for the farm and the computer would crunch the numbers to assess the overall effects of the music production.
 
 Farmers may choose to opt out of sharing the data collected by the AI system to improve its performance and understanding.
 
-<!--Describe the process of using the solution. In what kinds of situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?-->
-
-<!--Images will make your README look nice!
-Once you upload an image to your repository, you can link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300"> -->
 
 ## Data sources and AI methods
 
@@ -72,7 +66,7 @@ Any model with a thereputic purpose, such as this one, should be thorougly teste
 
 ## What next?
 
-My focus is on plants; however, it is conceivable that similar models could be developed to support mycelial networks, algae, animals, and humans. It is my hope that thoughtful AI developers, musicians, conservationists, farmers, biologists, and experts from other related fields will work together to achieve the successful implementaion and evolution of AI systems such as this one.
+My focus is on plants in agricultural settings; however, it is conceivable that similar models could be developed to support plants, mycelial networks, algae, animals, and humans in many different contexts. It is my hope that thoughtful AI developers, musicians, conservationists, farmers, biologists, and experts from other related fields will work together to achieve the successful implementaion and evolution of AI systems such as this one.
 
 ## Acknowledgments
 
