@@ -46,7 +46,9 @@ If a farmer wants to help the AI to assess and improve its performance, the foll
 
 The robotic assistants and/or farmers would report the data they collected to the central computer for the farm and the computer would crunch the numbers to assess the overall effects of the music production.
 
-Farmers may choose to opt out of sharing the data collected by the AI system to improve its performance and understanding.
+Anonymized, aggregated data from many farms may be of great value. Ideally, this data would be combined with locally collected data for each deployment (i.e. each farm or subsection of the farm) for maximum performance and benefit.
+
+Farmers may choose to opt out of sharing anon data collected by the AI system to improve the performance and understanding 
 
 
 ## Data sources and AI methods
