@@ -65,7 +65,7 @@ Any model with a utilitarian and/or thereputic purpose, such as this one, should
 
 ## What next?
 
-My focus is on plants in agricultural settings; however, it is conceivable that similar models could be developed to support plants, mycelial networks, algae, animals, and humans in many different contexts. It is my hope that thoughtful AI developers, musicians, conservationists, farmers, biologists, and experts from other related fields will work together to achieve the successful implementaion and evolution of harmonious AI music generator systems such as this one.
+My focus is on plants in agricultural settings; however, it is conceivable that similar models could be developed to support plants, trees, mycelial networks, algae, animals, insects, and humans in many different contexts. It is my hope that thoughtful AI developers, musicians, conservationists, farmers, biologists, and experts from other related fields will work together to achieve the successful implementaion and evolution of harmonious AI music generator systems such as this one.
 
 ## Acknowledgments
 
