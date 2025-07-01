@@ -18,7 +18,7 @@ We are currently facing many agricultural crises in the U.S. and worldwide, incl
 
 While the nature of the global agriculture crisis and its manifestations does vary widely based on reigon and climate, this AI system is likely to provide benefits regardless of the local environment. Additionally, the AI system would be highly adaptable and would learn independently and/or with human supervision (preferred) based on the specific conditions present in an individual deployment.
 
-As an adjunct to healthy agricultural practices (such as the avoidance of pesticides and GMOs, crop rotationsd, silvopasture, holistic grazing, and more), I believe that this AI system has the potential to:
+As an adjunct to healthy agricultural practices (such as the avoidance of pesticides and GMOs, crop rotations, cover cropping, silvopasture, holistic grazing, and more), I believe that this AI system has the potential to:
 * Accelerate recovery of depleted soils and damaged ecosystem
 * Reduce dependence on harmful pesticides
 * Nurture biodiversity
