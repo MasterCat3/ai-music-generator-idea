@@ -51,7 +51,7 @@ Farmers may choose to opt out of sharing the data collected by the AI system to 
 
 ## Data sources and AI methods
 
- Data would likely be collected from several sources. The model could be trained on datasets of relaxing, classical music, solfeggio frequency recordings, and other music that has been shown to have relaxing effects in humans, animals, and as research continues, plants as well. One option is to collect data from songs already written and recorded. Most classical music is in the public domain; most recordings of classical music is not. So data would have to be carefully collected to avoid copyright infringement. Another possibility is to generate original music using solfeggio frequencies (for example) and AI methods.
+ Data would likely be collected from several sources. The model could be trained on datasets of relaxing, classical music, solfeggio frequency recordings, and other music that has been shown to have relaxing effects in humans, animals, and as research continues, plants as well. One option is to collect data from songs already written and recorded. Most classical music is in the public domain; most recordings of classical music are not. So data would have to be carefully collected to avoid copyright infringement. Another possibility is to generate original music using solfeggio frequencies (for example) and AI methods.
 
 Linear regression, logistic regression, the nearest neighbor method, neural networks, and other machine learning techniques would likely be utilized, with a particular focus on neural networks and logistic regression.
 
