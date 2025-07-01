@@ -21,7 +21,7 @@ While the nature of the global agriculture crisis and its manifestations does va
 As an adjunct to healthy agricultural practices (such as the avoidance of pesticides and GMOs, crop rotationsd, silvopasture, holistic grazing, and more), I believe that this AI system has the potential to:
 * Accelerate recovery of depleted soils and damaged ecosystem
 * Reduce dependence on harmful pesticides
-* Nurture biodiversity.
+* Nurture biodiversity
 * Increase crops' nutritional value
 
 Healthier, happier plants equals better yields and greater sustainability.
@@ -61,7 +61,7 @@ This AI idea is not a magic bullet fix for all agricultural problems. Its succes
 
 When used as intended, I do not forsee any significant harms or ethical issues. However, successful and ethical deployment requires attention to an ideal volume and the design of the melody generator in order to have a beneficial effect and avoid playing dissonent frequencies.
 
-Any model with a thereputic purpose, such as this one, should be thorougly tested in high-quailty trials to ensure its safety and efficacy.
+Any model with a utilitarian and/or thereputic purpose, such as this one, should be thorougly tested in high-quailty studies and experiments to ensure its safety and efficacy.
 
 
 ## What next?
